@@ -1,8 +1,8 @@
 #!/usr/bin/perl 
 use strict;
 use warnings;
-#S.Hird 1 May 2013
-#PRGmatic.v1.7
+#S.Hird April 2014
+#PRGmatic.v1.7.2
 
 
 #PRGmatic: an efficient pipeline for collating NGS data
